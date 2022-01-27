@@ -1,7 +1,7 @@
-### Hello Fuck 👋
+### Hi guys Fuck 👋
  
-✨Here's some shit from me:
---
+✨Aqui estão algumas merdas minhas:
+
 - 🔭 I am currently working on...
 - Flutter - PHP - Laravel - Node.js -Angular.
 - 🌱 I'm catching up on...
