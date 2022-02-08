@@ -1,4 +1,4 @@
-### Hi guys Fuck 👋
+### Hi guys, Holá pessoal 👋
  
 ✨Aqui estão algumas merdas minhas:
 
