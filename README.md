@@ -10,7 +10,7 @@
 - 👯 I like to work in a group!, is it 🤔?
 I'm looking for help on google...
 - 💬 Ask me about my wy...
-- 📫 How to reach me: (ao) +244 995451832 - facebook.com/AristotelesKivova/
+- 📫 How to reach me: (ao) +244 995451832 
 - 😄 Pronouns:
 - Grape, Mr. Loop, Mr. Incredible
 - ⚡ Curiosity:
