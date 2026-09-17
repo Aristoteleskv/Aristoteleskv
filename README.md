@@ -1,6 +1,6 @@
 # Hi guys, Olá pessoal! 👋
 
-<img src="https://user-images.githubusercontent.com/20368961/187094567-a4f2e6de-4f22-4e65-8cf2-9205d3c77d67.gif" width="100%" />
+<img src="https://user-images.githubusercontent.com/20368961/187094567-a4f2e6de-4f22-4e65-8cf2-9205d3c77d67.gif" width="50%" />
 
 ## 👨‍💻 About Me
 
