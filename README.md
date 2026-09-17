@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/20368961/187094567-a4f2e6de-4f22-4e65-8cf2-9205d3c77d67.gif" width="20%" /> # 👋 Hi, I'm Aristóteles Kivova
+<img src="https://user-images.githubusercontent.com/20368961/187094567-a4f2e6de-4f22-4e65-8cf2-9205d3c77d67.gif" width="20%" /> # 👋 Hi, I'm Matutadidi Aristóteles Kivova
 
 ### `Loops 🤓` · Senior Software Engineer · Full-Stack & Mobile Developer
 
@@ -18,7 +18,7 @@
 
 ## 🚀 About Me
 
-I'm **Aristóteles Kivova**, also known as **Loops 🤓**, a Software Engineer passionate about designing and building **scalable, secure and high-performance software systems**.
+I'm **Aristóteles**, also known as **Loops or Kivova 🤓**, a Software Engineer passionate about designing and building **scalable, secure and high-performance software systems**.
 
 My work spans across **Web, Mobile, Backend, APIs, Databases and System Architecture**, turning complex business requirements into reliable software solutions.
 
